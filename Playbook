@@ -1,0 +1,676 @@
+Legal Operations Playbook
+
+A working guide for how the Legal Operations function runs the business of law: the processes, standards, roles and routines that let the legal department deliver faster, spend smarter and manage risk consistently. Adapt the bracketed items [like this] to your organization.
+Owner: [Head of Legal Operations] Executive sponsor: [General Counsel] Version: 1.0 Review cadence: Annually, or after any major change in structure, systems or strategy
+
+1. Purpose and Scope
+
+Purpose. Give the legal department a single, practical reference for how work is received, assigned, managed, measured and improved.
+This playbook covers:
+• Operating model, roles and governance
+• Intake, triage and matter management
+• Outside counsel and vendor management
+• Contract lifecycle management
+• Budgeting, spend control and billing
+• Technology and data
+• Knowledge management and templates
+• Reporting, KPIs and continuous improvement
+• Change management and communication
+This playbook does not replace legal advice, professional-responsibility obligations, or company policies. Where this document conflicts with law or company policy, those take precedence.
+
+2. Mission and Guiding Principles
+
+Mission. Enable Legal to deliver high-quality, cost-effective legal services that protect and advance the business.
+
+Principles
+1.  Lawyers practice law. Move routine, administrative and repeatable work away from attorneys through process, templates, automation or delegation.
+2.  Standardize first, then automate. Fix a broken process before putting technology on top of it.
+3.  Make the easy path the right path. A single front door and clear self-service options beat policing.
+4.  Decide with data. Track a small set of reliable metrics and act on them.
+5.  Partner with the business. Measure success by internal-client outcomes, not legal activity.
+6.  Protect privilege and confidentiality in every tool, workflow and report.
+7.  Improve continuously. Review, learn and adjust in regular cycles.
+
+3. Operating Model and Roles
+
+3.1 Core Competencies
+
+Legal Operations typically spans the twelve competencies defined by CLOC (Corporate Legal Operations Consortium). Use them as a checklist for coverage and gaps.
+Area
+What It Covers
+Current Owner
+Maturity (1-5)
+Business intelligence
+Reporting, analytics, dashboards
+[Name]
+[ ]
+Financial management
+Budgeting, forecasting, accruals
+[Name]
+[ ]
+Firm and vendor management
+Panel, rates, performance reviews
+[Name]
+[ ]
+Information governance
+Records, retention, holds
+[Name]
+[ ]
+Knowledge management
+Playbooks, templates, precedents
+[Name]
+[ ]
+Organization optimization and health
+Structure, resourcing, engagement
+[Name]
+[ ]
+Practice operations
+Workflows within each legal practice
+[Name]
+[ ]
+Project and program management
+Initiatives, cross-functional projects
+[Name]
+[ ]
+Strategic planning
+Department strategy and priorities
+[Name]
+[ ]
+Technology
+Systems, security, integrations
+[Name]
+[ ]
+Training and development
+Skills, onboarding, learning
+[Name]
+[ ]
+Service delivery models
+In-house vs. outside, ALSPs, shared services
+[Name]
+[ ]
+
+3.2 Roles
+
+Role
+Primary Responsibilities
+General Counsel
+Sets legal strategy, approves budget, sponsors Legal Ops priorities
+Head of Legal Operations
+Owns this playbook, roadmap, KPIs and operating rhythm
+Legal Ops Manager / Analyst
+Day-to-day process management, reporting, vendor administration
+Practice Leads
+Own substantive guidance, playbooks and quality within their area
+Attorneys
+Deliver legal advice, follow intake and matter standards, keep records current
+Paralegals / Legal Coordinators
+Intake support, document handling, contract administration
+Finance Partner
+Budget alignment, accrual review, invoice payment
+IT / Security Partner
+System administration, access control, security review
+
+3.3 Decision Rights (RACI)
+
+R = Responsible, A = Accountable, C = Consulted, I = Informed
+Decision / Activity
+GC
+Legal Ops
+Practice Lead
+Finance
+IT
+Annual legal budget
+A
+R
+C
+C
+I
+Outside counsel panel changes
+A
+R
+C
+C
+I
+Billing guidelines
+A
+R
+C
+C
+I
+Matter budget approval
+I
+R
+A
+C
+I
+Contract template changes
+I
+R
+A
+I
+I
+New legal technology selection
+A
+R
+C
+C
+C
+KPI definitions and targets
+A
+R
+C
+C
+I
+Playbook updates
+I
+A / R
+C
+I
+I
+
+4. Intake and Triage
+
+One clear front door keeps work visible, routed correctly and measurable.
+
+4.1 Intake Standards
+
+• All requests enter through [intake tool / shared mailbox / portal]. Requests made by chat, email to individual attorneys or hallway conversation are redirected to the front door, unless urgent.
+• Every request captures: requester, business unit, request type, description, desired deadline, deal or financial value, and any attachments.
+• Business users see a clear description of what Legal can help with and what is available through self-service.
+
+4.2 Triage Process
+
+1.  Acknowledge the request within [1 business day].
+2.  Classify by type (contract, advisory, litigation, compliance, employment, IP, privacy, corporate, other) and priority.
+3.  Check self-service. If a template, FAQ or playbook answers the request, direct the requester to it.
+4.  Assign to the right attorney or queue based on subject matter, workload and conflicts.
+5.  Confirm expected timeline with the requester.
+6.  Track the request to completion in the system.
+
+4.3 Priority Levels
+
+Priority
+Criteria
+Target First Response
+Target Resolution
+P1 - Critical
+Legal, regulatory or reputational emergency; significant revenue at immediate risk
+Same day (within hours)
+Case by case
+P2 - High
+Time-sensitive deal, regulatory deadline or executive request
+[1 business day]
+[3-5 business days]
+P3 - Standard
+Routine business request
+[2 business days]
+[5-10 business days]
+P4 - Low
+Non-urgent, informational or housekeeping
+[3 business days]
+[As scheduled]
+Adjust all service-level targets to fit your team's capacity and business needs.
+4.4 Self-Service Options
+Identify and publish low-risk work the business can handle without Legal, for example:
+• Standard NDAs on approved paper
+• Pre-approved vendor agreements under a defined value threshold
+• Standard sales terms with approved fallback positions
+• Frequently asked questions (signature authority, document retention, trademark use)
+Set clear guardrails and escalation triggers for each.
+
+5. Matter Management
+
+5.1 Matter Lifecycle
+
+Stage
+Key Actions
+Owner
+Open
+Create matter record, assign number, conflict and privilege check, identify business owner
+Legal coordinator
+Plan
+Define scope, strategy, budget and timeline; choose internal or outside resources
+Responsible attorney
+Execute
+Track work, communications, key dates and spend
+Responsible attorney
+Review
+Mid-matter check on budget, risk, strategy
+Practice lead / Legal Ops
+Close
+Final invoices, outcome recorded, lessons learned, retention schedule applied
+Responsible attorney / Legal coordinator
+
+5.2 Required Matter Data
+
+Every matter record should contain, at minimum:
+• Matter name, number and type
+• Business unit and internal client
+• Responsible attorney and team
+• Open date, expected close date and actual close date
+• Budget, accrual and actual spend
+• Outside counsel (if any)
+• Status, risk rating and outcome
+• Privilege designation
+5.3 Matter Hygiene Rules
+• Attorneys update status at least [monthly] and after any significant development.
+• Matters with no activity in [90 days] are reviewed for closure.
+• Closed matters must have an outcome recorded before archiving.
+• Legal Ops audits data quality [quarterly] and reports exceptions to practice leads.
+6. Outside Counsel Management
+6.1 Selection and Panel
+• Maintain a preferred panel by practice area and geography, and review it [annually].
+• Selection criteria: expertise, results, responsiveness, rates, conflicts, diversity, cultural fit and technology capability.
+• Use an RFP or competitive review for significant, recurring or high-cost work.
+• New firms are onboarded through Legal Ops: engagement terms, billing guidelines, security and conflicts requirements, and system access.
+
+6.2 Engagement Standards
+
+Requirement
+Standard
+Engagement letter
+Signed before work begins; references billing guidelines
+Matter budget
+Required for matters expected to exceed [$ threshold]; phased for litigation
+Staffing plan
+Approved by responsible attorney; changes require notice
+Fee structure
+Prefer AFAs (fixed, capped, blended, success-based) where scope is predictable
+Rate increases
+Once per year, capped at [x%], with advance written notice
+Status reporting
+[Monthly or at milestones]; early notice if budget variance exceeds [10%]
+Security and confidentiality
+Compliance with company data-handling and security requirements
+
+6.3 Billing Guidelines (Summary)
+
+Publish and enforce a full set of guidelines. Typical rules include:
+• Time entries in [0.1 hour] increments with clear, specific task descriptions
+• No block billing
+• No billing for clerical or administrative tasks, or for internal training of firm staff
+• Pre-approval for expenses above [$ threshold], travel and experts
+• Limits on attendees at meetings, depositions and hearings
+• Invoices submitted within [30-60 days] of the work period
+• Timekeeper changes require prior approval
+
+6.4 Invoice Review Process
+
+1.  Receive invoices through [e-billing system].
+2.  Automated checks against rate cards, guidelines and budget.
+3.  Legal Ops review for compliance exceptions and adjustments.
+4.  Attorney approval of substance and value.
+5.  Finance payment within [agreed terms].
+6.  Feedback loop. Share adjustments and recurring issues with the firm.
+
+6.5 Performance Reviews
+
+Score firms [annually] or at matter close across the following, and use results in rate talks and panel decisions:
+• Quality and outcomes
+• Responsiveness and communication
+• Budget accuracy and cost control
+• Efficiency and staffing
+• Billing compliance
+• Business understanding
+• Diversity and inclusion commitments
+
+7. Contract Lifecycle Management
+
+7.1 Lifecycle Stages
+
+Stage
+Key Activities
+Standards
+Request
+Business submits via intake with required details
+Standard request form; self-service for approved templates
+Draft
+Start from approved template or counterparty paper
+Template library with version control
+Review and negotiate
+Apply playbook positions; escalate deviations
+Fallback positions documented; escalation matrix
+Approve
+Internal approvals based on value and risk
+Delegation of authority matrix
+Sign
+E-signature through approved tool
+Authorized signatories only
+Store
+Executed contract saved with metadata
+Single repository; required fields populated
+Manage
+Track obligations, renewals, amendments
+Automated alerts [90/60/30 days] before key dates
+Renew or terminate
+Business and Legal decide in time to act
+Renewal review owner assigned
+
+7.2 Contract Playbook Structure
+
+For each contract type (NDA, MSA, SaaS, DPA, services, procurement, etc.), document:
+• Standard position (preferred language)
+• Acceptable fallback (pre-approved alternatives)
+• Escalation trigger (when it must go to a senior attorney or the GC)
+• Rationale (so reviewers understand the risk behind the clause)
+Key clauses to cover: limitation of liability, indemnification, IP ownership and licensing, confidentiality, data protection, term and termination, governing law, warranties, payment terms, insurance, and assignment.
+
+7.3 Approval Matrix (Template)
+
+Contract Value / Risk
+Approver
+Standard paper, under [$ amount]
+Business owner (self-service)
+Standard paper, [$ amount] to [$ amount]
+Legal review plus department head
+Non-standard terms or above [$ amount]
+Attorney review plus [VP / Finance]
+High-risk terms or strategic deals
+General Counsel plus [CFO / CEO]
+
+7.4 Repository and Data Standards
+
+Required metadata: counterparty, contract type, business owner, effective date, term, renewal terms, notice period, value, governing law, key obligations, and status. Run a data completeness check [quarterly].
+
+8. Budgeting, Forecasting and Spend Control
+
+8.1 Annual Budget Cycle
+Timing
+Activity
+[Q3]
+Gather historical spend, pipeline of known matters, strategic projects and headcount needs
+[Q3-Q4]
+Draft budget by category and business unit; align with Finance
+[Q4]
+GC review and approval; communicate to practice leads
+Monthly
+Review actuals vs. budget; reforecast as needed
+Quarterly
+Variance review with Finance and GC; adjust resource plans
+
+8.2 Budget Categories
+
+• Internal headcount and compensation
+• Outside counsel (litigation, transactions, regulatory, other)
+• Alternative legal service providers
+• E-discovery and managed services
+• Legal technology (licenses, implementation, support)
+• Training, memberships and professional fees
+• Contingency / reserve
+
+8.3 Spend Control Practices
+
+• Matter budgets approved before engagement for matters above [$ threshold]
+• Accruals updated at least [monthly]
+• Alerts when matter spend reaches [75%] of budget
+• Regular review of top 10 matters and top 10 vendors by spend
+• Savings tracked with clear definitions: hard savings (reduced actual spend) vs. soft savings (cost avoidance, productivity)
+9. Technology Strategy
+9.1 Core Systems
+System
+Purpose
+Owner
+Integrations
+Intake / workflow
+Request capture, routing, SLAs
+[Name]
+[Email, CLM, matter system]
+Matter management
+Matter records, budgets, outcomes
+[Name]
+[E-billing, Finance]
+E-billing
+Invoice review and spend analytics
+[Name]
+[ERP / AP]
+Contract lifecycle management
+Drafting, negotiation, repository, obligations
+[Name]
+[CRM, e-signature]
+E-signature
+Execution of documents
+[Name]
+[CLM]
+Document management
+Secure storage and version control
+[Name]
+[Email, CLM]
+E-discovery
+Collection, review, production
+[Name]
+[Matter system]
+Reporting / BI
+Dashboards and analytics
+[Name]
+[All of the above]
+
+9.2 Technology Selection Framework
+
+Evaluate any new tool against these questions:
+1.  Which specific problem or KPI will this improve, and how will we measure it?
+2.  Can we fix the process first without technology?
+3.  Does it integrate with our existing systems?
+4.  What are the security, privacy and data-residency requirements, and does it pass IT security review?
+5.  What is the total cost (licenses, implementation, change management, support)?
+6.  Who will own it, and what will adoption look like for users?
+7.  What is the exit plan, including data portability?
+
+9.3 AI and Automation Governance
+
+• Use only approved tools for any work involving confidential, privileged or personal data.
+• Do not enter privileged or sensitive data into tools that have not passed security and privacy review.
+• A qualified attorney reviews AI-generated legal work before it is relied upon or shared.
+• Document use cases, risks, data handling and review requirements for each approved AI tool.
+• Track accuracy issues, escalate incidents and revisit approvals [at least annually].
+• Follow applicable law, professional-responsibility rules and company policy on AI use.
+
+10. Data, Reporting and KPIs
+
+10.1 Reporting Rhythm
+
+Report
+Audience
+Frequency
+Content
+Operational dashboard
+Legal team
+Monthly
+Intake volume, cycle times, open matters, backlog
+Spend report
+GC, Finance
+Monthly
+Actual vs. budget, top matters, top firms, accrual changes
+Executive summary
+GC, executive team
+Quarterly
+KPIs, savings, risk highlights, major initiatives
+Outside counsel scorecard
+GC, practice leads
+Annually
+Firm performance and panel recommendations
+Board / audit committee
+Board
+As required
+Litigation exposure, compliance, significant matters
+
+10.2 Core KPIs
+
+See the companion document Legal Operations KPI List for definitions. A recommended starter set:
+• Total legal spend and % of revenue
+• Budget vs. actual variance
+• Invoice reduction rate
+• Blended hourly rate
+• Request response time and cycle time
+• Contract cycle time
+• % of contracts on standard paper
+• Internal client satisfaction
+• Tool adoption rate
+• Documented savings
+
+10.3 Data Quality Rules
+
+• Every KPI has a documented definition, data source, owner and refresh schedule.
+• Required matter and contract fields are mandatory in the system, not optional.
+• Data audits run [quarterly]; exceptions go to owners with a [10-business-day] fix window.
+
+11. Knowledge Management
+
+• Single source of truth for templates, playbooks, precedents, policies and FAQs, in [location].
+• Each asset has an owner, last-reviewed date and version.
+• Review high-use assets [annually] and immediately after relevant legal or business changes.
+• Capture lessons learned at matter close for significant matters; summarize key takeaways in a searchable format.
+• Maintain an onboarding pack for new lawyers and business partners that explains how Legal works, how to submit requests and who to contact.
+
+12. Information Governance and Compliance Operations
+
+12.1 Legal Holds
+
+1.  Responsible attorney identifies the duty to preserve.
+2.  Legal Ops or the legal coordinator drafts and issues the hold notice to identified custodians.
+3.  IT is notified to suspend relevant auto-deletion.
+4.  Custodians acknowledge receipt within [5 business days]; non-responders are followed up.
+5.  Holds are reviewed [quarterly] and released in writing when no longer needed.
+6.  All steps are documented in the matter record.
+
+12.2 Records Retention
+• Maintain a retention schedule by record type and jurisdiction, approved by Legal and Compliance.
+• Apply schedules consistently across systems.
+• Suspend destruction for anything under a legal hold.
+
+12.3 Policy and Training Management
+• Central inventory of policies with owner, review date and version.
+• Annual attestation and training campaigns, with completion tracked and reported.
+• Regulatory change monitoring with a defined path from alert to impact assessment to action.
+
+13. Change Management and Communication
+Process and technology changes succeed only if people adopt them.
+Change framework
+1.  Define the problem, the benefit and who is affected.
+2.  Engage stakeholders early; involve end users in design and pilot.
+3.  Pilot with a small group; capture feedback and adjust.
+4.  Train with short, role-specific guidance and quick-reference materials.
+5.  Launch with clear communication about what changes and when.
+6.  Reinforce with reminders, champions and visible leadership support.
+7.  Measure adoption and outcomes; fix friction quickly.
+Communication plan
+Audience
+Message
+Channel
+Frequency
+Legal team
+Process updates, wins, metrics
+Team meeting, newsletter
+Monthly
+Business leaders
+Service levels, value delivered, how to engage Legal
+Quarterly business review
+Quarterly
+All employees
+Self-service tools, policies, training
+Intranet, email
+As needed
+Outside counsel
+Guidelines, expectations, performance feedback
+Panel meeting, scorecard review
+Annually
+
+14. Implementation Roadmap
+First 30 Days: Understand
+• Interview the GC, practice leads, Finance and key business stakeholders
+• Inventory processes, systems, vendors and spend
+• Baseline the starter KPIs
+• Identify top pain points and quick wins
+Days 31-60: Standardize
+• Launch or tighten a single intake channel
+• Publish billing guidelines and matter-budget requirements
+• Document top contract types and playbook positions
+• Clean up matter and contract data in priority areas
+Days 61-90: Prove Value
+• Release the first operational and spend dashboards
+• Run the first outside counsel spend review and rate negotiation
+• Launch self-service for one or two high-volume request types
+• Present results and a 12-month roadmap to the GC
+Months 4-12: Scale
+• Roll out or optimize CLM, e-billing and workflow tools based on business case
+• Complete annual outside counsel panel review
+• Expand self-service and automation
+• Introduce quarterly business reviews with key internal clients
+• Run a maturity assessment and set next-year goals
+
+15. Governance and Continuous Improvement
+Operating rhythm
+Cadence
+Meeting
+Attendees
+Purpose
+Weekly
+Legal Ops stand-up
+Legal Ops team
+Prioritize work, resolve blockers
+Monthly
+Operations and spend review
+GC, Legal Ops, practice leads
+Review KPIs, spend and risks
+Quarterly
+Strategy and roadmap review
+GC, Legal Ops, Finance
+Adjust priorities, approve investments
+Annually
+Playbook review and maturity assessment
+Legal leadership
+Update this playbook and set goals
+Continuous improvement loop: Measure, identify the biggest gap, test a change, review results, then standardize or adjust.
+Playbook maintenance: Every section has an owner. Changes are logged below.
+Date
+Section
+Change
+Author
+[Date]
+[Section]
+[Summary]
+[Name]
+Appendix A: Checklists
+New Matter Checklist
+[ ] Request logged through intake
+[ ] Conflict and privilege check complete
+[ ] Responsible attorney and business owner assigned
+[ ] Scope, strategy and timeline defined
+[ ] Budget approved (if over threshold)
+[ ] Outside counsel engaged under signed engagement letter (if applicable)
+[ ] Key dates and deadlines calendared
+[ ] Matter record complete in system
+Outside Counsel Onboarding Checklist
+[ ] Conflicts check cleared
+[ ] Engagement letter signed
+[ ] Billing guidelines acknowledged
+[ ] Rate card agreed and loaded into e-billing
+[ ] Security and confidentiality requirements confirmed
+[ ] System access provisioned
+[ ] Primary contacts and escalation path shared
+Matter Closure Checklist
+[ ] All work completed and final invoices received
+[ ] Final spend reconciled against budget and accrual
+[ ] Outcome and lessons learned recorded
+[ ] Documents filed and retention schedule applied
+[ ] Legal hold released if applicable
+[ ] Firm performance feedback captured
+[ ] Matter status set to closed
+Appendix B: Glossary
+Term
+Meaning
+AFA
+Alternative fee arrangement: any fee structure other than standard hourly billing
+ALSP
+Alternative legal service provider
+CLM
+Contract lifecycle management
+CLOC
+Corporate Legal Operations Consortium
+DSAR
+Data subject access request
+E-billing
+System for submitting, reviewing and paying legal invoices
+RACI
+Responsible, Accountable, Consulted, Informed
+SLA
+Service-level agreement or target
