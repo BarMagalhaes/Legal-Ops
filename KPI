@@ -1,1 +1,281 @@
+Legal Operations KPI List
 
+A practical set of key performance indicators for Legal Operations, grouped by area. Start with a handful per category rather than tracking everything: pick the metrics that match your department's current priorities and the data you can reliably collect.
+
+How to Use This List
+• Pick 2-4 KPIs per category that tie directly to your department's goals.
+• Set a baseline first, then targets. A KPI without a baseline is just a number.
+• Separate leading from lagging indicators. Cycle times and intake volume predict problems; spend and outcomes confirm them.
+• Report to the right audience. The GC and CFO care about spend, risk and value; legal team leads care about workload and turnaround.
+
+1. Financial and Spend Management
+KPI
+Definition / Formula
+Why It Matters
+Total legal spend
+Internal costs + outside counsel + vendors + technology
+Core view of what legal costs the business
+Legal spend as % of revenue
+Total legal spend / company revenue
+Benchmarkable against peers in your industry
+Budget vs. actual variance
+(Actual spend - budget) / budget
+Shows forecasting accuracy and spend discipline
+Spend by category
+Outside counsel, ALSPs, e-discovery, software, headcount
+Reveals where money goes and where to optimize
+Spend by matter type / business unit
+Spend grouped by practice area or internal client
+Supports chargebacks and informed resourcing
+Accrual accuracy
+Forecast matter cost vs. final cost
+Helps Finance trust legal's reserves and forecasts
+Cost per matter
+Total cost / number of matters closed
+Tracks efficiency across comparable matters
+Savings achieved
+Documented savings from rate negotiations, AFAs, insourcing, vendor consolidation
+Demonstrates Legal Ops' value (track hard vs. soft savings separately)
+
+2. Outside Counsel Management
+KPI
+Definition / Formula
+Why It Matters
+Invoice review turnaround
+Average days from invoice receipt to approval
+Keeps firms paid on time and workflow moving
+Invoice rejection / reduction rate
+Amount cut or rejected / amount billed
+Indicates billing guideline compliance
+Billing guideline compliance rate
+Invoices with no guideline violations / total invoices
+Measures firm discipline and guideline clarity
+Blended hourly rate
+Total fees / total hours billed
+Tracks rate creep and mix of seniority
+Rate increase vs. negotiated
+Actual annual rate change vs. agreed cap
+Controls year-over-year cost growth
+Alternative fee arrangement (AFA) usage
+% of spend under AFAs
+Improves cost predictability
+Budget adherence by firm
+Actual vs. approved matter budget
+Highlights firms that manage scope well
+Firm performance score
+Scorecard covering quality, responsiveness, value, outcomes
+Informs panel decisions and renewals
+Panel concentration
+% of spend with top 5 / top 10 firms
+Supports consolidation and leverage in negotiations
+Diversity of outside counsel
+% of spend with diverse-owned firms or diverse timekeepers
+Supports company ESG and supplier diversity goals
+
+3. Matter and Workflow Efficiency
+KPI
+Definition / Formula
+Why It Matters
+Intake volume
+Number of requests received per period
+Shows demand on the department
+Request response time
+Average time from submission to first response
+Key service-level measure for the business
+Request cycle time
+Average time from intake to completion
+Identifies bottlenecks
+SLA attainment
+% of requests resolved within target timeframe
+Shows reliability of service
+Matters opened vs. closed
+Count of each, plus open matter aging
+Reveals backlog growth
+Matter cycle time by type
+Average duration by matter category
+Supports capacity planning and budgeting
+Self-service resolution rate
+Requests resolved through templates, playbooks, FAQ or bots / total requests
+Frees lawyers for higher-value work
+Routing accuracy
+% of requests sent to the right person first time
+Reduces rework and delays
+Rework / reopen rate
+Requests reopened or returned for revision / total
+Signals quality or intake-clarity problems
+
+4. Contract Management
+KPI
+Definition / Formula
+Why It Matters
+Contract cycle time
+Average days from request to signature
+Directly affects deal velocity and revenue
+Turnaround time by contract type
+Cycle time for NDAs, MSAs, DPAs, vendor agreements, etc.
+Pinpoints which types need templates or automation
+% contracts on standard paper
+Contracts using approved templates / total contracts
+Reduces review effort and risk
+Playbook / fallback usage
+% negotiated within pre-approved positions
+Shows how much can be delegated or automated
+Number of negotiation rounds
+Average redlines exchanged per contract
+Indicates template quality and negotiation efficiency
+Contracts reviewed per lawyer
+Volume per FTE
+Workload and capacity indicator
+Renewal capture rate
+Renewals actioned before deadline / renewals due
+Avoids missed renewals and auto-renewal surprises
+Obligation compliance rate
+Obligations met on time / total tracked obligations
+Reduces contractual risk
+Repository completeness
+% of active contracts stored with accurate metadata
+Foundation for reporting, audits and AI tools
+Value under management
+Total contract value tracked in the CLM
+Shows reach and importance of the system
+
+5. Team Productivity and Resourcing
+KPI
+Definition / Formula
+Why It Matters
+Matters per attorney
+Active matters / attorney headcount
+Workload balance indicator
+Utilization / capacity
+Hours on legal work vs. available hours
+Supports hiring and resourcing decisions
+Insourcing ratio
+% of work handled in-house vs. sent outside
+Tracks progress on cost-efficient delivery
+Legal cost per employee
+Total legal spend / total company headcount
+Alternative benchmark to revenue-based ratios
+Lawyer-to-staff ratio
+Attorneys vs. paralegals, legal ops and admin
+Shows leverage of the team structure
+Time on high-value work
+% of attorney time on strategic vs. routine tasks
+Measures effect of automation and delegation
+Attrition and engagement
+Legal team turnover rate and engagement scores
+Retention of knowledge and team health
+
+6. Technology and Data
+KPI
+Definition / Formula
+Why It Matters
+Tool adoption rate
+Active users / licensed users
+Shows whether tools are earning their cost
+Process automation rate
+Workflows automated / total repeatable workflows
+Tracks efficiency gains
+Time saved by automation
+Estimated hours saved per period
+Quantifies technology ROI
+Technology spend and ROI
+Software cost vs. savings and productivity gains
+Justifies investment and renewals
+Data quality score
+% of matters/contracts with complete, accurate fields
+Reporting is only as good as the data
+System integration coverage
+Legal systems integrated with Finance, CRM, HR, ERP
+Reduces manual entry and silos
+AI-assisted work share
+% of tasks (review, summarization, drafting) supported by AI, with quality checks
+Tracks adoption and governance of new tools
+
+7. Risk, Compliance and Governance
+KPI
+Definition / Formula
+Why It Matters
+Litigation exposure
+Open claims and estimated exposure by category
+Key reporting item for the board and Finance
+Win/loss and settlement outcomes
+Outcomes vs. initial assessment
+Evaluates strategy and counsel performance
+Litigation hold compliance
+Holds issued on time and acknowledged / holds required
+Reduces spoliation risk
+Policy attestation rate
+Employees completing required policy acknowledgments
+Evidence of compliance culture
+Training completion
+% of employees completing legal and compliance training
+Core compliance program measure
+Regulatory change response time
+Time from new regulation to action plan
+Shows readiness for compliance changes
+Audit findings
+Number and severity of legal/compliance findings, and closure rate
+Indicates control effectiveness
+Privacy request handling
+DSAR volume and % closed within statutory deadlines
+Required by data protection laws
+IP and corporate housekeeping
+Trademark/patent deadlines met, entity filings on time
+Prevents lapses and penalties
+
+8. Business Partnership and Satisfaction
+KPI
+Definition / Formula
+Why It Matters
+Internal client satisfaction (CSAT)
+Post-request or periodic survey scores
+Direct feedback on service quality
+Net Promoter Score (NPS)
+Likelihood of business teams to recommend Legal
+Simple trend-tracking benchmark
+Early engagement rate
+Matters where Legal was involved before a decision or deal was finalized
+Prevents costly late-stage fixes
+Business-unit adoption
+% of business teams using intake and self-service tools
+Measures how well processes are followed
+Stakeholder reporting cadence
+Reports and reviews delivered on schedule
+Builds transparency and trust
+
+9. Strategic and Value Metrics
+KPI
+Definition / Formula
+Why It Matters
+Value delivered
+Cost avoidance, revenue protected or enabled, savings
+Frames Legal as a business enabler
+Strategic project completion
+Planned Legal Ops initiatives delivered on time and on budget
+Tracks transformation progress
+Maturity score
+Self-assessment against a framework such as the CLOC Legal Ops Maturity Model
+Guides roadmap and investment
+Benchmark position
+Legal metrics vs. industry peers
+Contextualizes performance for executives
+Suggested Starter Dashboard
+If you are building a first dashboard, these ten KPIs give a balanced view:
+1.  Total legal spend and % of revenue
+2.  Budget vs. actual variance
+3.  Outside counsel invoice reduction rate
+4.  Blended hourly rate
+5.  Request response and cycle time
+6.  Contract cycle time
+7.  % of contracts on standard paper
+8.  Internal client satisfaction
+9.  Tool adoption rate
+
+10.  Savings achieved (hard and soft, tracked separately)
+
+Practical Tips
+• Define each metric once. Document the formula, data source, owner and refresh cadence so numbers are consistent across reports.
+• Watch for gaming. Fast turnaround is meaningless if quality or rework rates worsen, so pair speed metrics with quality metrics.
+• Report trends, not just snapshots. Quarter-over-quarter movement tells the story better than a single figure.
+• Tie metrics to decisions. If a KPI will not change what you do, consider dropping it.
+• Review annually. Retire metrics that no longer serve your priorities and add ones that reflect new goals.
